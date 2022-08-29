@@ -80,6 +80,7 @@ Cheers.
 * increase mlvl in cows from 81 to 83 and added an additional increase monster density in cows hell by 30% instead of 20%
 * increase the occurance of champion packs, mainly on nightmare and hell difficulty
 * mini uber areas (Matron's Den, Forgotten Sands and Furnace of Pain) now are lvl 85 areas
+* Act 1 Pits now have goatman instead of archers to give lightning dmg type a propper farm area
 * Act 2 spawning point after login and traveling with Meshif is now between Lysander and Fara.
 * Act 2 town portal now spawns near waypoint
 * Act 3 spawning point after login and traveling with Meshif is now between Ormus and Cain
