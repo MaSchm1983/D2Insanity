@@ -65,6 +65,7 @@ Cheers.
 * Increased size of horadric cube
 * Including a loot filter
 * Including merc to wear gloves, belts, shoes, an amulet and one ring
+* Druid spirits (heart of the wolverine, oak sage etc.) cannot be killed now
 
 
 
