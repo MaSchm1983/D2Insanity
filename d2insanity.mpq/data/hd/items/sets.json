@@ -931,9 +931,9 @@
     },
     {
         "wrath_of_the_angiris": {
-            "normal": "javelin/maiden_javelin",
-            "uber": "javelin/maiden_javelin",
-            "ultra": "javelin/maiden_javelin"
+            "normal": "sword/crystal_sword",
+            "uber": "sword/crystal_sword",
+            "ultra": "sword/crystal_sword"
         }
     },
     {
