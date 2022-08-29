@@ -189,6 +189,7 @@ Cheers.
 - Removed spirit runeword for shields
 - new runeword "purity" for 4os shields (changed former spirit)
 - spirit now works for staves and secpters as well
+- insight can now be made in spear class items as well.
 
 #### New runewords
 
