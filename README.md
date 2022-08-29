@@ -27,16 +27,16 @@ So play the mod you need to download the mod. After downloading you need to crea
 ````bash
 D:\Diablo II Resurrected\mods\
 ````
-Unpack the zip folder into the mods folder. 
+Unpack the zip folder into the mods folder (if you don't have an existing mod folder, create a new "mods" folder first). 
 ````bash
 D:\Diablo II Resurrected\mods\D2Insanity
 ````
-Now open your battle.net luncher and go to the D2R tab. Before lunching, click on the settings right next to the play now button and chose "game setting". Klick on "additional commands"
+Now open your battle.net launcher and go to the D2R tab. Before launching, click on the settings right next to the play now button and chose "game setting". Klick on "additional commands"
 In this next feld you need to type
 ````bash
 -mod D2Insanity -txt
 ````
-Now lunch the game. You'll notice that your older SP saves are not available now. This is just because the mods using another folder to save the characters, which is good, cause we don't want to override old SP progress in vanilla D2R. Now you can create a new character and play the mod. 
+Now launch the game. You'll notice that your older SP saves are not available now. This is just because the mods using another folder to save the characters, which is good, cause we don't want to override old SP progress in vanilla D2R. Now you can create a new character and play the mod. 
 
 You will notice, that all settings from your typically D2R experiance are resetted (sound, keybindings and so on). In addition to that, a feature of this mod is, that you have 3 additional stash tabs. But you will also notice, that those cannot be used yet. So fix both problems, the last step is, to find the new save game folder for this mods. Usually you find the D2R save games in your user folder in win10
 ````bash
@@ -65,6 +65,7 @@ Cheers.
 * Increased size of horadric cube
 * Including a loot filter
 * Including merc to wear gloves, belts, shoes, an amulet and one ring
+* Druid spirits (heart of the wolverine, oak sage etc.) cannot be killed now
 
 
 
