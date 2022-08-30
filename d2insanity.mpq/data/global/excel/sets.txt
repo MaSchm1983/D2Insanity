@@ -32,5 +32,5 @@ Bul-Kathos' Children	Bul-Kathos' Children	100																																	dm
 Cow King's Leathers	Cow King's Leathers	100	res-pois		25	25	ac		100	100																									stam		100	100	str		20	20	gold%		100	100	mag%		100	100	gethit-skill	42	25	18	swing3		30	30	hp		100	100	allskills		1	1	0
 Naj's Ancient Set	Naj's Ancient Set	100	ac		175	175	mag%/lvl	12																											allskills		3	3	regen		20	20	dex		15	15	res-all		50	50	str		20	20	mana		100	100	fireskill		2	2	hp%		12	12	0
 McAuley's Folly	McAuley's Folly	100	ac		50	50					att		75	75																					allskills		1	1	mag%		50	50	mana		50	50	lifesteal		4	4																	0
-Auriel's Hope	Auriel's Hope	100	mag%		75	75					str		25	25																					allskills		3	3	oskill	Teleport	1	1	res-all		30	30	cast3		30	30	hp		200	200	red-dmg%		30	30	state	fullsetgeneric	1	1					0
+Auriel's Hope	Auriel's Hope	100	mag%		75	75					str		25	25																					allskills		3	3	oskill	Teleport	1	1	res-all		30	30	cast3		30	30	hp		200	200	red-dmg%		15	15	state	fullsetgeneric	1	1					0
 Imperius Valor	Imperius Valor	100	mana		50	50					hp		50	50																					allskills		1	1	att		150	150	mag%		50	50	res-all		15	15	swing2		20	20													0
