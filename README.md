@@ -16,7 +16,7 @@ This is a mod for D2R single player which is based in the outstanding good mod f
    - [Sets](https://github.com/MaSchm1983/D2Insanity#Sets)
       - [New sets](https://github.com/MaSchm1983/D2Insanity#New-sets)
       - [Changed sets](https://github.com/MaSchm1983/D2Insanity#Changed-sets)
-   - [Runewords](https://github.com/MaSchm1983/D2Insanity#Runwords)
+   - [Runewords](https://github.com/MaSchm1983/D2Insanity#Runewords)
       - [New runewords](https://github.com/MaSchm1983/D2Insanity#New-runewords)
       - [Changed runewords](https://github.com/MaSchm1983/D2Insanity#Changed-runewords)
 
@@ -180,6 +180,83 @@ Cheers.
 ### Sets
 
 #### New sets
+* Auriel's Hope
+   - 2 Items: 75 % Better change of getting magic item
+   - 3 Items: 25 to strength
+   - Full set: +3 to all skills
+   - Full set: +1 Teleport
+   - Full set: 30 to all resistance
+   - Full set: 200 to life
+   - Full set: 15% reduced physical damage
+   - Setitems: 
+        - Auriels Soul, Archon Plate: 
+            - 100-200% enhanced defence
+            - +2 to all skills
+            - lvl 8 meditaion aura
+            - -30% requirements
+            - 20-30 to strength 
+            - 100 - 200 to life
+            - 1-2 socketed
+            - 3 Setitems: +100 to mana
+        - Auriels Burden, Ring:
+            - 10% faster cast rate
+            - 5-10 reduced physical damage
+            - 10-20 to vitality
+            - 20-50 to mana
+            - +5% maximum fire reistance
+            - 10-20% Better chance of getting magic item
+        - Auriels Light, Shako:
+            - +1 to all skills
+            - 20% faster cast rate
+            - 30-50 to vitality
+            - +20 replanish life
+            - +5 light radius
+            - 30-50 to fire resistance
+            - 2 Setitems: +8% reduced physical damage
+            - 3 Setitems: +1 to all skills
+         - Auriels Lash, Vampirebone Gloves:
+            - 20% faster cast rate
+            - 30-50% enhanced defence
+            - 30-50 to cold resistance
+            - 20% increased chance of blocking
+            - 30-50 to mana
+            - 3 Setitems: +10% lifeleech
+         - Auriels Will, Sharkskin Boots:
+            - 40% faster run/walk
+            - 16% faster hit recovery
+            - 30-50 to poison resistance
+            - reduced magic damage by 12
+            - 15-30% Better chance of getting magic item
+            - +20 replanish life            
+* Imperius Valor
+   - 2 Items: 50 to mana
+   - 3 Items: 50 to life
+   - Full set: +1 to all skills
+   - Full set: +150 to attack rating
+   - Full set: +50% Better chance of getting magic items
+   - Full set: 15 to all resistance
+   - Full set: 20% increased attack speed
+   - Setitems: 
+        - Molton Armor, Field Plate: 
+            - 50-100% enhanced defence
+            - 10-15 to strength 
+            - 10-15 to vitality
+            - 2 Setitems: +20% chance to deadly strike
+        - Wrath of the Angiris, Crystal Sword:
+            - 80%-100% enhanced damage
+            - +10 minimum damage
+            - +30% increased attack speed
+            - 2 Setitems: +10 maximum damage
+        - Celestial Charge, Greaves:
+            - 30% faster run/walk
+            - cannot be frozen
+            - 10-20% to fire resistance
+            - 10-20% Better chance of getting magic item
+            - 3 Setitems: +20% chance of crushing blow
+         - Holy Fervor, Light Gaunlets:
+            - 20% faster cast rate            
+            - 10-20 to cold resistance
+            - 20 to mana
 
 
 #### Changes sets
