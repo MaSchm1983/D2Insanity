@@ -50,7 +50,7 @@ Cheers.
 
 ## Known bugs and issues
 
-* Somehow are partial setbonuses not working and are instead on the item. They should appear only whne using a certain amount of setitems (like 10fcr on tal amu) as green information on the item. Actually not sure whar causes the issue.
+* Somehow partial setbonuses are not working propperly at least on the two new sets. The bonuses which should only appear are on the items itself instead while being add to partial setbonuses in the files. They should appear only when using a certain amount of setitems (like 10fcr on tal amu) as green information on the item. Actually not sure what causes the issue.
 
 
 ## General changes
